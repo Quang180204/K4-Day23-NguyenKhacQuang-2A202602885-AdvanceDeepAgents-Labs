@@ -1,0 +1,23 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "gemma4:31b",
+  "elapsed_s": 126.8,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 3,
+    "task": 4,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 112964,
+    "output": 6218
+  },
+  "n_sources": 16,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

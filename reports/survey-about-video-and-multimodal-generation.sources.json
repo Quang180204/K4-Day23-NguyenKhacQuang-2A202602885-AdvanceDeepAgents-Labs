@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "1710.00421",
+    "url": "https://arxiv.org/abs/1710.00421",
+    "title": "Video Generation From Text",
+    "date": "2017-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2211.13221",
+    "url": "https://arxiv.org/abs/2211.13221",
+    "title": "Latent Video Diffusion Models for High-Fidelity Long Video Generation",
+    "date": "2022-11-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2311.18834",
+    "url": "https://arxiv.org/abs/2311.18834",
+    "title": "ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models",
+    "date": "2023-11-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "lumina-video",
+    "url": "https://huggingface.co/papers/lumina-video",
+    "title": "Lumina-Video: Multi-scale Next-DiT for Efficient Video Generation",
+    "date": "2025-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "latte",
+    "url": "https://huggingface.co/papers/latte",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "lumiere",
+    "url": "https://huggingface.co/papers/lumiere",
+    "title": "Lumiere: A Space-Time Diffusion Model for Video Generation",
+    "date": "2024-01-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "ditctrl",
+    "url": "https://huggingface.co/papers/ditctrl",
+    "title": "DiTCtrl: Training-Free Attention Control for Video Generation",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "wan-video",
+    "url": "https://github.com/wan-video/wan2.2",
+    "title": "Wan-Video (Wan2.2) GitHub Repository",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "hunyuanvideo",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+    "title": "HunyuanVideo GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "open-sora",
+    "url": "https://github.com/hpcaitech/Open-Sora",
+    "title": "Open-Sora GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2405.03150",
+    "url": "https://arxiv.org/abs/2405.03150",
+    "title": "Video Diffusion Models: A Survey",
+    "date": "2024-05-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2412.14169",
+    "url": "https://arxiv.org/abs/2412.14169",
+    "title": "Autoregressive Video Generation without Vector Quantization (NOVA)",
+    "date": "2024-12-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "xgen-videosyn",
+    "url": "https://huggingface.co/papers/xgen-videosyn",
+    "title": "xGen-VideoSyn-1: High-Fidelity Synthesis via Spatial-Temporal Divide-and-Merge",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "animatelcm",
+    "url": "https://huggingface.co/papers/animatelcm",
+    "title": "AnimateLCM: Decoupled Consistency Learning for Fast Video Generation",
+    "date": "2024-01-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 15,
+    "id": "ltx-video",
+    "url": "https://github.com/Lightricks/LTX-Video",
+    "title": "LTX-Video GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "cogvideo",
+    "url": "https://github.com/zai-org/CogVideo",
+    "title": "CogVideo GitHub Repository",
+    "date": "2023-01-01",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "animatediff",
+    "url": "https://github.com/guoyww/AnimateDiff",
+    "title": "AnimateDiff GitHub Repository",
+    "date": "2023-01-01",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "vace",
+    "url": "https://github.com/ali-vilab/VACE",
+    "title": "VACE GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "gemma4:31b",
+  "elapsed_s": 72.7,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 1,
+    "task": 4,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 107499,
+    "output": 7305
+  },
+  "n_sources": 17,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

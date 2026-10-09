@@ -99,6 +99,39 @@ Kết quả nằm ở `reports/survey-about-world-model.md` cùng `.sources.json
 - Kiểm tra trước khi nộp: chạy **`python self_check.py`** (không tốn token): nó kiểm tra đủ 5 báo cáo, `meta.json`, trích dẫn bằng `check_citations.py` của bạn, và không có `.env`/khóa nào trong git.
 - Cách chấm: xem [`RUBRIC.md`](RUBRIC.md).
 
+### Cách đọc thư mục `reports/`
+
+Mỗi lần chạy thành công một chủ đề sẽ tạo ra một bộ gồm 3 tệp tin tương ứng trong thư mục `reports/`:
+
+1. `<slug>.md`:
+   - Báo cáo khảo sát hoàn chỉnh theo cấu trúc chuẩn từ `REPORT_TEMPLATE.md`: `# Title`, `## TL;DR`, `## Background`, các phần nội dung theo chủ đề, `## Trends and open problems`, và `## References`.
+   - Mỗi khẳng định, sự kiện, kết quả đo đạc đều được đánh số trích dẫn `[n]`. Danh sách `## References` được tự động chuẩn hóa và đánh số lại bởi `finalize_citations.py` (mỗi nguồn đúng 1 dòng kèm 1 URL).
+2. `<slug>.sources.json`:
+   - Danh sách chi tiết các tài liệu/nguồn tham khảo đã được sử dụng trong báo cáo dưới dạng JSON array:
+     ```json
+     [
+       {
+         "n": 1,
+         "id": "2402.08268",
+         "url": "https://arxiv.org/abs/2402.08268",
+         "title": "Paper Title",
+         "date": "2024-02-13",
+         "source": "arxiv"
+       }
+     ]
+     ```
+   - Trường `source` biểu thị họ nguồn (`arxiv`, `hf-daily`, `hf-search`, `web`) tương ứng với URL nguồn.
+3. `<slug>.meta.json`:
+   - Dữ liệu siêu dữ liệu (metadata) ghi lại bằng chứng chấm điểm của toàn bộ quá trình chạy deep research:
+     - `topic`: Chủ đề khảo sát ban đầu.
+     - `model`: Tên mô hình LLM được sử dụng.
+     - `elapsed_s`: Tổng thời gian thực thi (giây).
+     - `subagent_calls`: Số lần Lead agent uỷ quyền tác vụ cho subagent thông qua công cụ `task` (yêu cầu $\ge 3$).
+     - `tool_calls`: Chi tiết số lượt gọi từng công cụ.
+     - `tokens`: Thống kê token input/output của Lead agent.
+     - `n_sources`: Tổng số lượng nguồn tài liệu được trích dẫn.
+     - `source_families`: Danh sách các họ nguồn đã sử dụng (yêu cầu $\ge 3$ họ nguồn khác nhau trong số `arxiv`, `hf-daily`, `hf-search`, `web`).
+
 ## 7. Thời gian, chi phí và an toàn
 
 - Dùng một mô hình **rẻ nhưng hỗ trợ tool calling**, và **đặt giới hạn** (số lần gọi mô hình/công cụ cho lead và subagent, `recursion_limit`): một prompt hỏng có thể khiến agent lặp rất lâu. Đây là hạng mục 2.5 của `RUBRIC.md`.

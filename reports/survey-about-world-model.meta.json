@@ -1,0 +1,24 @@
+{
+  "topic": "survey about world model",
+  "model": "gemma4:31b",
+  "elapsed_s": 114.4,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 2,
+    "task": 4,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 105926,
+    "output": 4407
+  },
+  "n_sources": 10,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

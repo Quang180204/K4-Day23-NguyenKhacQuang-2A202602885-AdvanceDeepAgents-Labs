@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2402.02750",
+    "url": "https://arxiv.org/abs/2402.02750",
+    "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2502.04420",
+    "url": "https://arxiv.org/abs/2502.04420",
+    "title": "KVTuner: Sensitivity-Aware Layer-Wise Mixed-Precision KV Cache Quantization",
+    "date": "2025-02-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2408.15881",
+    "url": "https://huggingface.co/papers/2408.15881",
+    "title": "LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation",
+    "date": "2024-08-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2306.08543",
+    "url": "https://huggingface.co/papers/2306.08543",
+    "title": "Knowledge Distillation of Large Language Models (MiniLLM)",
+    "date": "2023-06-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2510.18817",
+    "url": "https://huggingface.co/papers/2510.18817",
+    "title": "Fine-Tuned Thoughts: Leveraging Chain-of-Thought Reasoning for Industrial Asset Health Monitoring",
+    "date": "2025-10-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2608.11981",
+    "url": "https://huggingface.co/papers/2608.11981",
+    "title": "Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed",
+    "date": "2026-08-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "vllm",
+    "url": "https://github.com/vllm-project/vllm",
+    "title": "vLLM",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "sglang",
+    "url": "https://github.com/sgl-project/sglang",
+    "title": "SGLang",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "llama-cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "title": "llama.cpp",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "mlc-llm",
+    "url": "https://github.com/mlc-ai/mlc-llm",
+    "title": "MLC LLM",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2409.15790",
+    "url": "https://huggingface.co/papers/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2504.03661",
+    "url": "https://arxiv.org/abs/2504.03661",
+    "title": "MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization",
+    "date": "2025-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2412.09036",
+    "url": "https://arxiv.org/abs/2412.09036",
+    "title": "ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty",
+    "date": "2024-12-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2507.14204",
+    "url": "https://arxiv.org/abs/2507.14204",
+    "title": "LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling",
+    "date": "2025-07-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2412.12706",
+    "url": "https://arxiv.org/abs/2412.12706",
+    "title": "More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression",
+    "date": "2024-12-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2606.04694",
+    "url": "https://huggingface.co/papers/2606.04694",
+    "title": "DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer",
+    "date": "2026-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "tensorrt-llm",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "title": "TensorRT-LLM",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2305.17888",
+    "url": "https://arxiv.org/abs/2305.17888",
+    "title": "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  }
+]

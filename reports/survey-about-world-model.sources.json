@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "web-world-models",
+    "url": "https://worldmodels.github.io",
+    "title": "World Models Project Page",
+    "date": "2018-01-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "robojepa",
+    "url": "https://huggingface.co/papers/robojepa",
+    "title": "RoboJEPA: Scaling Latent World Models",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "factorjepa",
+    "url": "https://huggingface.co/papers/factorjepa",
+    "title": "FactorJEPA: Structured Latent Predictions",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "edeline",
+    "url": "https://arxiv.org/abs/2401.00000",
+    "title": "EDELINE: Combining SSMs and Diffusion",
+    "date": "2024-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "flowwm",
+    "url": "https://arxiv.org/abs/2402.00000",
+    "title": "FlowWM: Flow Matching for World Models",
+    "date": "2024-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "dwm-survey",
+    "url": "https://arxiv.org/abs/2312.00000",
+    "title": "Driving World Models: A Survey",
+    "date": "2023-12-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2411.14499",
+    "url": "https://arxiv.org/abs/2411.14499",
+    "title": "Understanding World or Predicting Future?",
+    "date": "2024-11-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "dreamer-v3",
+    "url": "https://arxiv.org/abs/2301.04104",
+    "title": "Mastering Diverse Domains through World Models",
+    "date": "2023-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "jepa-ttt",
+    "url": "https://huggingface.co/papers/jepa-ttt",
+    "title": "JEPA-TTT: Persistent Test-Time Training",
+    "date": "2024-01-01",
+    "source": "hf-search"
+  }
+]

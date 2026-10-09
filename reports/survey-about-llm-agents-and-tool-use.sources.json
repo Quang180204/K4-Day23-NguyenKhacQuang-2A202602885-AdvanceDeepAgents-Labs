@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2606.15874",
+    "url": "https://arxiv.org/abs/2606.15874",
+    "title": "LLM-as-Code: Agentic Programming for Agent Harness",
+    "date": "2026-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2508.02721",
+    "url": "https://arxiv.org/abs/2508.02721",
+    "title": "Blueprint First, Model Second",
+    "date": "2025-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2511.01854",
+    "url": "https://huggingface.co/papers/2511.01854",
+    "title": "Tool-to-Agent Retrieval",
+    "date": "2025-11-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2607.25718",
+    "url": "https://huggingface.co/papers/2607.25718",
+    "title": "HYSET: Set-Level Tool Retrieval",
+    "date": "2026-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2505.06416",
+    "url": "https://huggingface.co/papers/2505.06416",
+    "title": "ScaleMCP",
+    "date": "2025-05-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "title": "LangChain GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "crewai",
+    "url": "https://github.com/crewaiinc/crewai",
+    "title": "CrewAI GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "langgraph",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "title": "LangGraph GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2401.07324",
+    "url": "https://arxiv.org/abs/2401.07324",
+    "title": "Small LLMs Are Weak Tool Learners: A Multi-LLM Agent",
+    "date": "2024-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2501.07054",
+    "url": "https://arxiv.org/abs/2501.07054",
+    "title": "PoAct: Policy and Action Dual-Control Agent",
+    "date": "2025-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2602.20426",
+    "url": "https://huggingface.co/papers/2602.20426",
+    "title": "Learning to Rewrite Tool Descriptions",
+    "date": "2026-02-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2509.01560",
+    "url": "https://huggingface.co/papers/2509.01560",
+    "title": "In-N-Out: API Graph Dataset",
+    "date": "2025-09-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2606.22388",
+    "url": "https://huggingface.co/papers/2606.22388",
+    "title": "PlanBench-XL",
+    "date": "2026-01-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2602.18998",
+    "url": "https://huggingface.co/papers/2602.18998",
+    "title": "General AgentBench",
+    "date": "2026-02-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2507.11527",
+    "url": "https://huggingface.co/papers/2507.11527",
+    "title": "DrafterBench",
+    "date": "2025-07-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "autogen",
+    "url": "https://github.com/microsoft/autogen",
+    "title": "AutoGen GitHub Repository",
+    "date": "2024-01-01",
+    "source": "web"
+  }
+]
